@@ -10,11 +10,13 @@
 ### Internal style: 
 * for h1:
     * Make the color green
+* for p:
+    * Make the color orange
 ## Task 3
 ### External style
 * Create style.css file 
 * Link the css file in the head of html file you want to apply it for
-* Create class for one of h1 tag in html called: heading-1, and for another h1:heading-2
+* Create class for one of h1 tag in html called: heading-1, and for another h1: heading-2
     * apply style for h1 that having class heading-1: purple
     * apply style for h1 that having class heading-2: yellow
 * Create class for p:
